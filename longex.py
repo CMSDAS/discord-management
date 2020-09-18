@@ -1,0 +1,11 @@
+ex_short = {}
+ex_short['Higgs decaying to WW'] = 'Higgs-WW'
+ex_short['Measurement of the Z boson cross section with taus'] = 'Z-tau'
+ex_short['Search for Dark Matter in association with a Z boson'] = 'DM-Z'
+ex_short['Measurement of the ttbar cross section'] = 'ttbar'
+ex_short['Measurement of Bs decaying to two muons'] = 'Bs-mumu'
+ex_short['Dimuon analysis with data scouting'] = 'Dimuon-scouting'
+ex_short['Higgs boson pair production in the bb4l final state'] = 'HH-bb4l'
+ex_short['SUSY Hadronic with top tagging'] = 'SUSY-hadronic'
+ex_short['Search for an excited b quark decaying to a top quark and a W boson'] = 'Excited-b'
+ex_short['Exclusive di-lepton production with tagged protons'] = 'Exclusive-dilep'
